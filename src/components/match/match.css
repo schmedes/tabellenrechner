@@ -1,0 +1,23 @@
+.match {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.5em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    border-bottom: 1px solid #888;
+}
+.match-input {
+    width: 1.5em;
+    font-size: 1.5em;
+    text-align: center;
+}
+.match-icon {
+    flex: 1 0 37px;
+    width: 1.5em;
+    height: 1.5em;
+}
+.match-gutter {
+    width: 20%;
+}

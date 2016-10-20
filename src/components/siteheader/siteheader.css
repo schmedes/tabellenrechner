@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    background-image: linear-gradient(to bottom, #353535 50%, #1e1e1e 50%);
+}
+
+.header-button {
+    background-image: linear-gradient(to bottom, #C80A00 50%, #820E12 50%);;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 25%;
+    font-size: 1.5em;
+    padding: 0.3em;
+    -webkit-appearance: none;
+}
+.header-button:hover {
+    background-image: none;
+    background-color: #C80A00;
+}
+.header-headline {
+    color:white;
+    font-size: 1.5em;
+    padding: 0.3em;
+    background-image: linear-gradient(to bottom, #C80A00 50%, #820E12 50%);;
+}

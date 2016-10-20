@@ -1,0 +1,58 @@
+td {
+    padding: 0.7em 1em;
+    text-align: center;
+    border-collapse: collapse;
+}
+.table {
+    border-collapse: collapse;
+}
+.table-header {
+    background-color: #222;
+    color: #fff;
+}
+.table-header__club {
+    text-align: left;
+}
+.table-entry {
+ border-bottom: 1px solid #e8e8e8;
+ background-color: #bdbdbd;
+}
+.table-entry:nth-child(2), .table-entry:nth-child(3), .table-entry:nth-child(4) {
+    background-color: rgba(129, 199, 132, 1);
+}
+.table-entry:nth-child(5) {
+    background-color: rgba(129, 199, 132, 0.8);
+}
+.table-entry:nth-child(6), .table-entry:nth-child(7) {
+     background-color: rgba(129, 199, 132, 0.5);
+}
+.table-entry:nth-child(17) {
+    background-color: rgba(244, 67, 54, .7);
+}
+.table-entry:nth-child(18), .table-entry:nth-child(19) {
+    background-color: rgba(244, 67, 54, .9);
+}
+.table-entry__name {
+    text-align: left;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 0.9em;
+}
+.table-header > td {
+    font-size: 1em;
+}
+@media (max-width: 700px) {
+    .table-header__gf, .table-header__ga {
+        display: none;
+    }
+}
+@media (max-width: 550px) {
+    td {
+        padding: 0.5em 0;
+    }
+    .team-icon {
+        margin: 0;
+        width: 2em;
+    }
+}
