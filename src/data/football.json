@@ -1836,8 +1836,8 @@
             "name": "VfL Wolfsburg",
             "code": "WOB"
           },
-          "score1": null,
-          "score2": null
+          "score1": 5,
+          "score2": 0
         },
         {
           "date": "2016-12-10",
@@ -1851,8 +1851,8 @@
             "name": "1. FSV Mainz 05",
             "code": "M05"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2016-12-10",
@@ -1866,8 +1866,8 @@
             "name": "Bayer 04 Leverkusen",
             "code": "B04"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         },
         {
           "date": "2016-12-10",
@@ -1881,8 +1881,8 @@
             "name": "Werder Bremen",
             "code": "BRE"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         },
         {
           "date": "2016-12-10",
@@ -1896,8 +1896,8 @@
             "name": "Borussia Dortmund",
             "code": "BVB"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2016-12-10",
@@ -1911,8 +1911,8 @@
             "name": "FC Augsburg",
             "code": "FCA"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2016-12-10",
@@ -1926,8 +1926,8 @@
             "name": "RB Leipzig",
             "code": "RBL"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2016-12-10",
@@ -1941,8 +1941,8 @@
             "name": "1899 Hoffenheim",
             "code": "HOF"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 0
         },
         {
           "date": "2016-12-10",
@@ -1956,8 +1956,8 @@
             "name": "SV Darmstadt 98",
             "code": "D98"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
         }
       ]
     },

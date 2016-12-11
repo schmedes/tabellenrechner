@@ -5,7 +5,7 @@ import './gameday.css';
 export default class GameDay extends Component {
     constructor(props) {
         super(props);
-        this.state = {day: 7};
+        this.state = {day: 14};
         this.onMatchChange = this.onMatchChange.bind(this);
         this.changeDay = this.changeDay.bind(this);
     }
