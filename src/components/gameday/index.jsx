@@ -5,19 +5,33 @@ import './gameday.css';
 export default class GameDay extends Component {
     constructor(props) {
         super(props);
-        this.state = {day: 14};
         this.onMatchChange = this.onMatchChange.bind(this);
         this.changeDay = this.changeDay.bind(this);
+        this.getMatchDay = this.getMatchDay.bind(this);
     }
     onMatchChange(data, index) {
+        const {daydata} = this.props.data[this.state.day];
         this.props.change([...this.props.data.slice(0, this.state.day),
-             {"name": this.props.data[this.state.day].name, "matches": this.props.data[this.state.day].matches.slice(0, index).concat(data).concat(this.props.data[this.state.day].matches.slice(index+1, this.props.data[this.state.day].matches.length))},
+             {"name": daydata.name, "matches": daydata.matches.slice(0, index).concat(data).concat(daydata.matches.slice(index+1, daydata.matches.length))},
               ...this.props.data.slice(this.state.day + 1, this.props.data.length)]);
     }
     changeDay(change) {
         if(this.state.day + 1 + change < 35 && this.state.day + 1 + change > 0 ) {
            this.setState({day: this.state.day + change});
         }
+    }
+    getMatchDay() {
+        let i = 0;
+        let found = false;
+        while(!found && i <= 34) {
+            i++
+            found = this.props.data[i].matches.some( e=> e.score1 === null);
+        }
+        this.setState({day: i});
+
+    }
+    componentWillMount() {
+        this.getMatchDay();
     }
     render() {
         return(
