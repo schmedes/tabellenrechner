@@ -2256,8 +2256,8 @@
             "name": "Hertha BSC",
             "code": "BSC"
           },
-          "score1": null,
-          "score2": null
+          "score1": 3,
+          "score2": 1
         },
         {
           "date": "2017-01-21",
@@ -2271,8 +2271,8 @@
             "name": "FC Ingolstadt 04",
             "code": "FCI"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2017-01-21",
@@ -2286,8 +2286,8 @@
             "name": "1. FC Köln",
             "code": "KOE"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 0
         },
         {
           "date": "2017-01-21",
@@ -2301,8 +2301,8 @@
             "name": "Hamburger SV",
             "code": "HSV"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2017-01-21",
@@ -2316,8 +2316,8 @@
             "name": "1899 Hoffenheim",
             "code": "HOF"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 2
         },
         {
           "date": "2017-01-21",
@@ -2331,8 +2331,8 @@
             "name": "Borussia Dortmund",
             "code": "BVB"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 2
         },
         {
           "date": "2017-01-21",
@@ -2346,8 +2346,8 @@
             "name": "Borussia M'gladbach",
             "code": "BMG"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 0
         },
         {
           "date": "2017-01-21",
@@ -2361,8 +2361,8 @@
             "name": "FC Bayern München",
             "code": "FCB"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 2
         },
         {
           "date": "2017-01-21",
@@ -2376,8 +2376,8 @@
             "name": "Eintracht Frankfurt",
             "code": "FFM"
           },
-          "score1": null,
-          "score2": null
+          "score1": 3,
+          "score2": 0
         }
       ]
     },
@@ -2396,8 +2396,8 @@
             "name": "FC Bayern München",
             "code": "FCB"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 2
         },
         {
           "date": "2017-01-28",
@@ -2411,8 +2411,8 @@
             "name": "Eintracht Frankfurt",
             "code": "FFM"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         },
         {
           "date": "2017-01-28",
@@ -2426,8 +2426,8 @@
             "name": "1899 Hoffenheim",
             "code": "HOF"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 1
         },
         {
           "date": "2017-01-28",
@@ -2441,8 +2441,8 @@
             "name": "FC Augsburg",
             "code": "FCA"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 2
         },
         {
           "date": "2017-01-28",
@@ -2456,8 +2456,8 @@
             "name": "Hamburger SV",
             "code": "HSV"
           },
-          "score1": null,
-          "score2": null
+          "score1": 3,
+          "score2": 1
         },
         {
           "date": "2017-01-28",
@@ -2471,8 +2471,8 @@
             "name": "1. FC Köln",
             "code": "KOE"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 6
         },
         {
           "date": "2017-01-28",
@@ -2486,8 +2486,8 @@
             "name": "Hertha BSC",
             "code": "BSC"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 1
         },
         {
           "date": "2017-01-28",
@@ -2501,8 +2501,8 @@
             "name": "Borussia M'gladbach",
             "code": "BMG"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 3
         },
         {
           "date": "2017-01-28",
@@ -2516,8 +2516,8 @@
             "name": "Borussia Dortmund",
             "code": "BVB"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         }
       ]
     },
