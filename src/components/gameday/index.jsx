@@ -10,7 +10,8 @@ export default class GameDay extends Component {
         this.getMatchDay = this.getMatchDay.bind(this);
     }
     onMatchChange(data, index) {
-        const {daydata} = this.props.data[this.state.day];
+        const daydata = this.props.data[this.state.day];
+        console.log(this.props.data);
         this.props.change([...this.props.data.slice(0, this.state.day),
              {"name": daydata.name, "matches": daydata.matches.slice(0, index).concat(data).concat(daydata.matches.slice(index+1, daydata.matches.length))},
               ...this.props.data.slice(this.state.day + 1, this.props.data.length)]);
