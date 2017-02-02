@@ -24,6 +24,10 @@ class App extends Component {
     return (
       <div className="app">
         <SiteHeader reset={this.onReset} />
+        <input name="content" id="matches" type="radio" value="matches" defaultChecked/>
+        <label htmlFor="matches">Matches</label>
+        <input name="content" id="table" type="radio" value="table"/>
+        <label htmlFor="table">Table</label>
         <main className="main">
         <GameDay data={this.state.matchdata} change={this.onGameChange} />
         <Table tabledata={this.state.table} />

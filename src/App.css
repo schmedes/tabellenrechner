@@ -3,11 +3,21 @@ html, body {
   font-family: Arial, Helvetica, sans-serif;
   width: 100%;
   font-size: 18px;
+  overflow-x: hidden;
 }
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+[type="radio"] {
+  display: none;
+}
+label {
+  font-size: 2em;
+  cursor: pointer;
+  display: none;
+  padding: 0 15%;
 }
 .app {
   background-color: #fff;
@@ -22,17 +32,34 @@ html, body {
   }
 @media (max-width: 1200px) {
   .main {
-    flex-direction: column;
+    width: 200%;
+    justify-content: initial;
+    margin-top: 0;
+    transition: transform 0.3s ease-out;
   }
   html, body {
     font-size: 15px;
   }
-   .gameday {
-    flex: 1 0 30%;
-  }
-  .table {
-    width: 100%;
-  }
+ .gameday {
+   flex: 0 0 50%;
+ }
+ label {
+   display: inline;
+ }
+ .table {
+   flex: 0 0 50%;
+ }
+ #matches:checked ~ .main {
+   transform: translateX(0);
+ }
+ #table:checked ~ .main {
+   transform: translateX(-50%);
+ }
+ #matches:checked + label, #table:checked + label{
+   background-color: #1e1e1e;
+   color: white;
+ }
+
 }
 @media (max-width: 600px) {
   html, body {

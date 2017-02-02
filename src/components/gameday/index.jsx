@@ -36,7 +36,7 @@ export default class GameDay extends Component {
     }
     render() {
         return(
-            <div className="gameday">
+            <div className="gameday">           
             <div className="gameday-header">
             <button className="gameday-change" onClick={()=> this.changeDay(-1)}><svg className="arrow-back arrow" xmlns="http://www.w3.org/2000/svg" fill="#fff" viewBox="0 0 24 24" >
     <path d="M22 12l-4-4v3H3v2h15v3z"/>

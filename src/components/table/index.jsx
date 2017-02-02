@@ -39,7 +39,9 @@ export default class Table extends Component {
     }
     render() {
         return(
-            <table className="table">
+            <section className="table">
+            
+            <table>
             <tbody>
             <tr className="table-header">
             <td className="table-header__position" >Position</td>
@@ -60,6 +62,7 @@ export default class Table extends Component {
         }
         </tbody>
         </table>
+        </section>
         );
     }
 }
