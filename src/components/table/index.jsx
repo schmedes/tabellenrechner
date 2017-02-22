@@ -40,7 +40,6 @@ export default class Table extends Component {
     render() {
         return(
             <section className="table">
-            
             <table>
             <tbody>
             <tr className="table-header">
