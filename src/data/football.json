@@ -3096,8 +3096,8 @@
             "name": "FC Bayern München",
             "code": "FCB"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 3
         },
         {
           "date": "2017-03-04",
@@ -3111,8 +3111,8 @@
             "name": "Bayer 04 Leverkusen",
             "code": "B04"
           },
-          "score1": null,
-          "score2": null
+          "score1": 8,
+          "score2": 2
         },
         {
           "date": "2017-03-04",
@@ -3126,8 +3126,8 @@
             "name": "Schalke 04",
             "code": "S04"
           },
-          "score1": null,
-          "score2": null
+          "score1": 4,
+          "score2": 2
         },
         {
           "date": "2017-03-04",
@@ -3141,8 +3141,8 @@
             "name": "Hertha BSC",
             "code": "BSC"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2017-03-04",
@@ -3156,8 +3156,8 @@
             "name": "VfL Wolfsburg",
             "code": "WOB"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2017-03-04",
@@ -3171,8 +3171,8 @@
             "name": "FC Ingolstadt 04",
             "code": "FCI"
           },
-          "score1": null,
-          "score2": null
+          "score1": 5,
+          "score2": 2
         },
         {
           "date": "2017-03-04",
@@ -3186,8 +3186,8 @@
             "name": "SV Darmstadt 98",
             "code": "D98"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 0
         },
         {
           "date": "2017-03-04",
@@ -3201,8 +3201,8 @@
             "name": "SC Freiburg",
             "code": "SCF"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 2
         },
         {
           "date": "2017-03-04",
@@ -3216,8 +3216,8 @@
             "name": "RB Leipzig",
             "code": "RBL"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 2
         }
       ]
     },
