@@ -3236,8 +3236,8 @@
             "name": "Borussia Dortmund",
             "code": "BVB"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 1
         },
         {
           "date": "2017-03-11",
@@ -3251,8 +3251,8 @@
             "name": "Borussia M'gladbach",
             "code": "BMG"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 1
         },
         {
           "date": "2017-03-11",
@@ -3266,8 +3266,8 @@
             "name": "1. FSV Mainz 05",
             "code": "M05"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 1
         },
         {
           "date": "2017-03-11",
@@ -3281,8 +3281,8 @@
             "name": "VfL Wolfsburg",
             "code": "WOB"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         },
         {
           "date": "2017-03-11",
@@ -3296,8 +3296,8 @@
             "name": "1. FC Köln",
             "code": "KOE"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 2
         },
         {
           "date": "2017-03-11",
@@ -3311,8 +3311,8 @@
             "name": "FC Augsburg",
             "code": "FCA"
           },
-          "score1": null,
-          "score2": null
+          "score1": 3,
+          "score2": 0
         },
         {
           "date": "2017-03-11",
@@ -3326,8 +3326,8 @@
             "name": "Werder Bremen",
             "code": "BRE"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2017-03-11",
@@ -3341,8 +3341,8 @@
             "name": "1899 Hoffenheim",
             "code": "HOF"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2017-03-11",
@@ -3356,8 +3356,8 @@
             "name": "Eintracht Frankfurt",
             "code": "FFM"
           },
-          "score1": null,
-          "score2": null
+          "score1": 3,
+          "score2": 0
         }
       ]
     },
