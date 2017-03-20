@@ -3376,8 +3376,8 @@
             "name": "FC Bayern München",
             "code": "FCB"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         },
         {
           "date": "2017-03-18",
@@ -3391,8 +3391,8 @@
             "name": "Bayer 04 Leverkusen",
             "code": "B04"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2017-03-18",
@@ -3406,8 +3406,8 @@
             "name": "Schalke 04",
             "code": "S04"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         },
         {
           "date": "2017-03-18",
@@ -3421,8 +3421,8 @@
             "name": "Hertha BSC",
             "code": "BSC"
           },
-          "score1": null,
-          "score2": null
+          "score1": 4,
+          "score2": 2
         },
         {
           "date": "2017-03-18",
@@ -3436,8 +3436,8 @@
             "name": "Hamburger SV",
             "code": "HSV"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 0
         },
         {
           "date": "2017-03-18",
@@ -3451,8 +3451,8 @@
             "name": "FC Ingolstadt 04",
             "code": "FCI"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2017-03-18",
@@ -3466,8 +3466,8 @@
             "name": "SV Darmstadt 98",
             "code": "D98"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2017-03-18",
@@ -3481,8 +3481,8 @@
             "name": "RB Leipzig",
             "code": "RBL"
           },
-          "score1": null,
-          "score2": null
+          "score1": 3,
+          "score2": 0
         },
         {
           "date": "2017-03-18",
@@ -3496,8 +3496,8 @@
             "name": "SC Freiburg",
             "code": "SCF"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         }
       ]
     },
